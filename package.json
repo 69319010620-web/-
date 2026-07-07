@@ -1,0 +1,12 @@
+{
+  "name": "my-basic-web-server",
+  "version": "1.0.0",
+  "description": "Basic Web Server for Lab Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
